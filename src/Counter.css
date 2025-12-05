@@ -80,3 +80,12 @@
 .reset:hover {
   background-color: #1e88e5;
 }
+
+.error-message {
+  color: #d32f2f;
+  background-color: #ffebee;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-weight: bold;
+}
